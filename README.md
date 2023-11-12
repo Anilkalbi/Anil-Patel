@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Anilkalbi
+- 👋 Hi, I’m @Anil
 - 🌱 I’m currently learning java
 
 <!---
